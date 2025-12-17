@@ -1,0 +1,398 @@
+[
+  {
+    "start": 0.0,
+    "end": 3.0,
+    "speaker": "SPEAKER_01",
+    "text": "conversation between boss and employee."
+  },
+  {
+    "start": 3.0,
+    "end": 6.0,
+    "speaker": "SPEAKER_01",
+    "text": "Let's learn together."
+  },
+  {
+    "start": 6.0,
+    "end": 9.0,
+    "speaker": "SPEAKER_02",
+    "text": "Good morning Sarah."
+  },
+  {
+    "start": 9.0,
+    "end": 12.0,
+    "speaker": "SPEAKER_02",
+    "text": "Can we talk about your recent project?"
+  },
+  {
+    "start": 12.0,
+    "end": 15.0,
+    "speaker": "SPEAKER_01",
+    "text": "Good morning, Mr Johnson."
+  },
+  {
+    "start": 15.0,
+    "end": 18.0,
+    "speaker": "SPEAKER_01",
+    "text": "Yes please."
+  },
+  {
+    "start": 18.0,
+    "end": 21.0,
+    "speaker": "SPEAKER_02",
+    "text": "I've noticed some delays."
+  },
+  {
+    "start": 21.0,
+    "end": 24.0,
+    "speaker": "SPEAKER_02",
+    "text": "Can you explain?"
+  },
+  {
+    "start": 24.0,
+    "end": 27.0,
+    "speaker": "SPEAKER_01",
+    "text": "Yes, we faced unexpected challenges."
+  },
+  {
+    "start": 27.0,
+    "end": 30.0,
+    "speaker": "SPEAKER_01",
+    "text": "Weather caused some issues."
+  },
+  {
+    "start": 30.0,
+    "end": 35.0,
+    "speaker": "SPEAKER_02",
+    "text": "Can we plan better for contingencies next time?"
+  },
+  {
+    "start": 35.0,
+    "end": 36.0,
+    "speaker": "SPEAKER_01",
+    "text": "Agreed."
+  },
+  {
+    "start": 36.0,
+    "end": 41.0,
+    "speaker": "SPEAKER_01",
+    "text": "We'll include contingencies in the project timeline."
+  },
+  {
+    "start": 41.0,
+    "end": 46.0,
+    "speaker": "SPEAKER_02",
+    "text": "Speaking of which, remember that storm last month."
+  },
+  {
+    "start": 46.0,
+    "end": 49.0,
+    "speaker": "SPEAKER_02",
+    "text": "How did it affect the project?"
+  },
+  {
+    "start": 49.0,
+    "end": 54.0,
+    "speaker": "SPEAKER_01",
+    "text": "It delayed our deliveries by a week."
+  },
+  {
+    "start": 54.0,
+    "end": 59.0,
+    "speaker": "SPEAKER_01",
+    "text": "We'll need to adjust the client's expectations."
+  },
+  {
+    "start": 59.0,
+    "end": 65.0,
+    "speaker": "SPEAKER_02",
+    "text": "Keep them informed, and let's aim for better risk management."
+  },
+  {
+    "start": 65.0,
+    "end": 70.0,
+    "speaker": "SPEAKER_01",
+    "text": "Absolutely, we'll provide regular updates to the client."
+  },
+  {
+    "start": 70.0,
+    "end": 72.0,
+    "speaker": "SPEAKER_02",
+    "text": "Good."
+  },
+  {
+    "start": 72.0,
+    "end": 76.0,
+    "speaker": "SPEAKER_02",
+    "text": "Your team's performance overall has been strong."
+  },
+  {
+    "start": 76.0,
+    "end": 78.0,
+    "speaker": "SPEAKER_01",
+    "text": "Thank you Mr Johnson."
+  },
+  {
+    "start": 78.0,
+    "end": 81.0,
+    "speaker": "SPEAKER_01",
+    "text": "We aim for excellence."
+  },
+  {
+    "start": 82.0,
+    "end": 87.0,
+    "speaker": "SPEAKER_02",
+    "text": "I heard about your team's recent success in landing the contract."
+  },
+  {
+    "start": 87.0,
+    "end": 91.0,
+    "speaker": "SPEAKER_02",
+    "text": "Can you share how you achieved that?"
+  },
+  {
+    "start": 91.0,
+    "end": 97.0,
+    "speaker": "SPEAKER_01",
+    "text": "We customized our pitch to address their specific needs, and it paid off."
+  },
+  {
+    "start": 97.0,
+    "end": 98.0,
+    "speaker": "SPEAKER_02",
+    "text": "Excellent."
+  },
+  {
+    "start": 98.0,
+    "end": 102.0,
+    "speaker": "SPEAKER_02",
+    "text": "I'd like to see more of such strategic thinking."
+  },
+  {
+    "start": 102.0,
+    "end": 106.0,
+    "speaker": "SPEAKER_01",
+    "text": "We're constantly refining our approach."
+  },
+  {
+    "start": 107.0,
+    "end": 111.0,
+    "speaker": "SPEAKER_02",
+    "text": "I'd also like you to mentor John from your team."
+  },
+  {
+    "start": 111.0,
+    "end": 114.0,
+    "speaker": "SPEAKER_02",
+    "text": "He shows potential."
+  },
+  {
+    "start": 114.0,
+    "end": 119.0,
+    "speaker": "SPEAKER_01",
+    "text": "I'll make sure he gets the guidance he needs."
+  },
+  {
+    "start": 119.0,
+    "end": 123.0,
+    "speaker": "SPEAKER_02",
+    "text": "About the upcoming presentation, are you ready?"
+  },
+  {
+    "start": 123.0,
+    "end": 128.0,
+    "speaker": "SPEAKER_01",
+    "text": "Almost, just need to finalize a few slides."
+  },
+  {
+    "start": 128.0,
+    "end": 132.0,
+    "speaker": "SPEAKER_02",
+    "text": "What's the main message you want to convey?"
+  },
+  {
+    "start": 132.0,
+    "end": 137.0,
+    "speaker": "SPEAKER_01",
+    "text": "That we provide solutions, not just products."
+  },
+  {
+    "start": 137.0,
+    "end": 139.0,
+    "speaker": "SPEAKER_02",
+    "text": "Perfect."
+  },
+  {
+    "start": 139.0,
+    "end": 143.0,
+    "speaker": "SPEAKER_02",
+    "text": "Make sure the slides align with that message."
+  },
+  {
+    "start": 143.0,
+    "end": 145.0,
+    "speaker": "SPEAKER_01",
+    "text": "I will Mr Johnson."
+  },
+  {
+    "start": 145.0,
+    "end": 149.0,
+    "speaker": "SPEAKER_01",
+    "text": "It's a crucial opportunity."
+  },
+  {
+    "start": 149.0,
+    "end": 153.0,
+    "speaker": "SPEAKER_02",
+    "text": "How's the teams morale these days?"
+  },
+  {
+    "start": 153.0,
+    "end": 158.0,
+    "speaker": "SPEAKER_01",
+    "text": "Generally good, but stress is creeping up."
+  },
+  {
+    "start": 158.0,
+    "end": 160.0,
+    "speaker": "SPEAKER_02",
+    "text": "Address that."
+  },
+  {
+    "start": 160.0,
+    "end": 164.0,
+    "speaker": "SPEAKER_02",
+    "text": "Happy employees are productive employees."
+  },
+  {
+    "start": 164.0,
+    "end": 168.0,
+    "speaker": "SPEAKER_01",
+    "text": "We'll plan a team building activity soon."
+  },
+  {
+    "start": 168.0,
+    "end": 170.0,
+    "speaker": "SPEAKER_02",
+    "text": "That's a good idea."
+  },
+  {
+    "start": 170.0,
+    "end": 173.0,
+    "speaker": "SPEAKER_02",
+    "text": "Let's improve collaboration."
+  },
+  {
+    "start": 173.0,
+    "end": 176.0,
+    "speaker": "SPEAKER_02",
+    "text": "And your own workload?"
+  },
+  {
+    "start": 176.0,
+    "end": 181.0,
+    "speaker": "SPEAKER_01",
+    "text": "Manageable, but I've been putting in extra hours."
+  },
+  {
+    "start": 181.0,
+    "end": 183.0,
+    "speaker": "SPEAKER_02",
+    "text": "I don't want you to burn out."
+  },
+  {
+    "start": 183.0,
+    "end": 186.0,
+    "speaker": "SPEAKER_02",
+    "text": "Delegate when necessary."
+  },
+  {
+    "start": 186.0,
+    "end": 191.0,
+    "speaker": "SPEAKER_01",
+    "text": "I'll start distributing tasks more evenly."
+  },
+  {
+    "start": 191.0,
+    "end": 195.0,
+    "speaker": "SPEAKER_02",
+    "text": "Any thoughts on improving our customer service?"
+  },
+  {
+    "start": 195.0,
+    "end": 200.0,
+    "speaker": "SPEAKER_01",
+    "text": "Regular training sessions could boost performance."
+  },
+  {
+    "start": 200.0,
+    "end": 204.0,
+    "speaker": "SPEAKER_02",
+    "text": "Implement that and monitor the results."
+  },
+  {
+    "start": 204.0,
+    "end": 206.0,
+    "speaker": "SPEAKER_01",
+    "text": "We'll do Mr Johnson."
+  },
+  {
+    "start": 206.0,
+    "end": 210.0,
+    "speaker": "SPEAKER_01",
+    "text": "Continuous improvement."
+  },
+  {
+    "start": 210.0,
+    "end": 214.0,
+    "speaker": "SPEAKER_02",
+    "text": "I've heard some complaints about the office temperature."
+  },
+  {
+    "start": 214.0,
+    "end": 219.0,
+    "speaker": "SPEAKER_01",
+    "text": "We'll look into it, maybe adjust the thermostat."
+  },
+  {
+    "start": 219.0,
+    "end": 221.0,
+    "speaker": "SPEAKER_02",
+    "text": "Excellent."
+  },
+  {
+    "start": 221.0,
+    "end": 224.0,
+    "speaker": "SPEAKER_02",
+    "text": "Employee comfort matters."
+  },
+  {
+    "start": 224.0,
+    "end": 229.0,
+    "speaker": "SPEAKER_01",
+    "text": "Absolutely. Happy employees are productive."
+  },
+  {
+    "start": 229.0,
+    "end": 232.0,
+    "speaker": "SPEAKER_02",
+    "text": "That's what I like to hear."
+  },
+  {
+    "start": 232.0,
+    "end": 236.0,
+    "speaker": "SPEAKER_01",
+    "text": "Thank you for the productive discussion."
+  },
+  {
+    "start": 236.0,
+    "end": 240.0,
+    "speaker": "SPEAKER_01",
+    "text": "Take care, Mr Johnson."
+  },
+  {
+    "start": 240.0,
+    "end": 245.0,
+    "speaker": "SPEAKER_01",
+    "text": "Don't forget to subscribe."
+  }
+]
